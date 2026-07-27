@@ -242,6 +242,9 @@ Expose Exchange Assets: https://anypoint.mulesoft.com/exchange/?view=grid&type=a
 |-----------|------|-----|
 |Hill Street Blues|Mike Post|From the 1980s TV show|
 |Dos Oruguitas|Steven Joseph|Instrumental cover of song from Encanto|
+|Hotel California|Moyun|played on a traditional Japanese instrument|
+|Sweet Home Alabama|Luca Stricagnoli|instrumental cover|
+
 
 
 
