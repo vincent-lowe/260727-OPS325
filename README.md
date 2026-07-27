@@ -62,56 +62,6 @@ https://anypoint.mulesoft.com
 
 https://anypoint.mulesoft.com/exchange/?view=grid&type=app
 
-username: chYYstudentXX
-
-password: @Mulesoft2022
-
-username: chYYviewerXX
-
-password: @Mulesoft2020
-
-YY = 02
-
-XX - Name - uswestclassps - #.0.0.0/22
-
-02 - 
-
-03 - 
-
-04 - 
-
-05 - 
-
-06 - 
-
-07 - 
-
-08 - 
-
-09 - 
-
-10 - 
-
-11 - 
-
-12 - 
-
-13 - 
-
-14 - 
-
-15 - 
-
-16 - 
-
-17 - 
-
-18 - 
-
-19 - 
-
-20 - 
-
 CloudYYSubGroup0X
 
 CloudYYSubGroupXX - Viewers
@@ -244,6 +194,8 @@ Expose Exchange Assets: https://anypoint.mulesoft.com/exchange/?view=grid&type=a
 |Dos Oruguitas|Steven Joseph|Instrumental cover of song from Encanto|
 |Hotel California|Moyun|played on a traditional Japanese instrument|
 |Sweet Home Alabama|Luca Stricagnoli|instrumental cover|
+|Sixteen Tons|Luca Stricagnoli|All voices on the track are Luca|
+
 
 
 
