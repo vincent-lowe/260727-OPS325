@@ -238,8 +238,8 @@ Cleanup Hints
 
 Expose Exchange Assets: https://anypoint.mulesoft.com/exchange/?view=grid&type=app
 
-|-----|----|----|
-|Title|Artist|Notes|
+|Track Title|Artist|Notes|
+|-----------|------|-----|
 |Hill Street Blues|Mike Post|From the 1980s TV show|
 |Dos Oruguitas|Steven Joseph|Instrumental cover of song from Encanto|
 
